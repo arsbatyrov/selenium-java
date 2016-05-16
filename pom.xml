@@ -149,7 +149,7 @@
     <profile>
       <id>testhost</id>
       <properties>
-        <site.url>http://testhost/</site.url>
+        <site.url>http://barancev.w.pw/</site.url>
       </properties>
     </profile>
     <profile>
@@ -171,7 +171,7 @@
     <profile>
       <id>grid</id>
       <properties>
-        <grid.url>http://localhost:4444/wd/hub/</grid.url>
+        <grid.url>https://ars14:QKg4u9RZGKrNDDLBHkNj@hub.browserstack.com/wd/hub</grid.url>
       </properties>
     </profile>
   </profiles>
